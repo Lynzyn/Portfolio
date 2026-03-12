@@ -103,7 +103,7 @@ export function About() {
             >
               <div className="w-full max-w-[520px] h-[520px] overflow-hidden -mt-6">
                 <ImageWithFallback
-                  src="/src/Pic/Me.png"
+                  src="/Pic/Me.png"
                   alt="Designer at work"
                   className="w-full h-full object-contain object-bottom"
                 />
@@ -124,7 +124,7 @@ export function About() {
             <div className="w-40 p-2 rounded-2xl bg-white shadow-md">
               <div className="h-28 rounded-lg overflow-hidden">
                 <ImageWithFallback
-                  src="/src/Pic/mood2.jpg"
+                  src="/Pic/mood2.jpg"
                   alt="img2"
                   className="w-full h-full object-cover"
                 />
@@ -134,7 +134,7 @@ export function About() {
             <div className="w-40 p-2 rounded-2xl bg-white shadow-md">
               <div className="h-28 rounded-lg overflow-hidden">
                 <ImageWithFallback
-                  src="/src/Pic/realme.png"
+                  src="/Pic/realme.png"
                   alt="img3"
                   className="w-full h-full object-cover object-[center_70%]"
                 />
@@ -144,7 +144,7 @@ export function About() {
             <div className="w-40 p-2 rounded-2xl bg-white shadow-md">
               <div className="h-28 rounded-lg overflow-hidden">
                 <ImageWithFallback
-                  src="/src/Pic/mood.jpg"
+                  src="/Pic/mood.jpg"
                   alt="img4"
                   className="w-full h-full object-cover object-[center_80%]"
                 />

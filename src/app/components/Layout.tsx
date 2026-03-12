@@ -30,7 +30,7 @@ export function Layout() {
             {/* Logo */}
             <Link to="/">
               <img
-                src="/src/Pic/SPlogo.png"
+                src="/Pic/SPlogo.png"
                 alt="SP Logo"
                 className="h-18 w-auto"
               />

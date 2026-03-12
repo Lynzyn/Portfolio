@@ -267,7 +267,7 @@ export function Contact() {
               </a>
 
               <a
-                href="/src/Doc/Resume.pdf"
+                href="/Doc/Resume.pdf"
                 download
                 className="inline-flex items-center gap-2 rounded-lg border-2 border-white px-8 py-4 text-white transition-colors hover:bg-white hover:text-gray-900"
               >

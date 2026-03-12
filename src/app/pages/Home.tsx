@@ -9,7 +9,7 @@ export function Home() {
       id: 1,
       title: "THEATRE Website",
       category: "Web Design",
-      image: "/src/Pic/Theatre.png",
+      image: "/Pic/Theatre.png",
       description:
         "Designed a theatre booking experience including show details and interactive browsing flow.",
     },
@@ -17,7 +17,7 @@ export function Home() {
       id: 2,
       title: "Animal Diary",
       category: "Mobile Application",
-      image: "/src/Pic/Animal.png",
+      image: "/Pic/Animal.png",
       description:
         "Designed and built a mobile game for primary education to support learning and skill development.",
     },
@@ -25,7 +25,7 @@ export function Home() {
       id: 3,
       title: "Chicken Ready",
       category: "UI Design Concept",
-      image: "/src/Pic/Chicken.png",
+      image: "/Pic/Chicken.png",
       description:
         "Mobile app design for professional chicken farmers with interactive prototypes created in Figma.",
     },
@@ -85,7 +85,7 @@ export function Home() {
             >
               <div className="aspect-square rounded-2xl bg-gradient-to-br from-gray-100 to-gray-200 overflow-hidden">
                 <ImageWithFallback
-                  src="/src/Pic/mood.jfif"
+                  src="/Pic/mood.jfif"
                   alt="Designer workspace"
                   className="w-full h-full object-cover"
                 />

@@ -33,7 +33,7 @@ export const projects: Project[] = [
   {
     id: 1,
     slug: "theatre-website",
-    wireframes: ["/src/Pic/Theatrewf.jpg", "/src/Pic/Theatrewf2.jpg"],
+    wireframes: ["/Pic/Theatrewf.jpg", "/Pic/Theatrewf2.jpg"],
     features: [
       {
         icon: "🎭",
@@ -60,7 +60,7 @@ export const projects: Project[] = [
     title: "THEATRE Website",
     category: "UI Design",
     year: "2026 - Developing",
-    image: "/src/Pic/Theatre.png",
+    image: "/Pic/Theatre.png",
     prototypeUrl:
       "https://www.figma.com/proto/GykIW8fudJcktJrsXM0GdV/THEATRE-SHOW?node-id=2-771&t=VbeiEmPPRG8SrSUI-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1",
     description:
@@ -77,9 +77,9 @@ export const projects: Project[] = [
     tools: ["Figma", "Adobe Photoshop"],
 
     images: [
-      "/src/Pic/Theatre.png",
-      "/src/Pic/Theatrefull.png",
-      "/src/Pic/Theatrefull2.png",
+      "/Pic/theatre.png",
+      "/Pic/theatrefull.png",
+      "/Pic/theatrefull2.png",
     ],
     outcomes: [
       "Created 15+ screens covering main user flows",
@@ -115,10 +115,10 @@ export const projects: Project[] = [
     slug: "animal-diary",
     title: "Animal Diary",
     wireframes: [
-      "/src/Pic/Animalwf.jpg",
-      "/src/Pic/Animalwf2.jpg",
-      "/src/Pic/Animalwf3.jpg",
-      "/src/Pic/Animalwf4.jpg",
+      "/Pic/animalwf.jpg",
+      "/Pic/animalwf2.jpg",
+      "/Pic/animalwf3.jpg",
+      "/Pic/animalwf4.jpg",
     ],
     features: [
       {
@@ -150,7 +150,7 @@ export const projects: Project[] = [
       "https://www.figma.com/proto/Lf4htJw65ziYBJbpOoQcLb/Project?node-id=10-89&t=j9NATo7YHmJ6DJWw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A89&show-proto-sidebar=1",
     category: "Final Project",
     year: "2025",
-    image: "/src/Pic/Animal.png",
+    image: "/Pic/Animal.png",
     description:
       "Designed and build a mobile game for Primary education plays a crucial role in developing skills and preparing children for higher-level learning in the future.",
     tags: ["Mobile", "Unity", "UX/UI design", "Game", "User research", "Figma"],
@@ -165,9 +165,9 @@ export const projects: Project[] = [
     tools: ["Figma", "Unity", "Adobe Photoshop"],
     images: [
       "https://images.unsplash.com/photo-1771922748624-b205cf5d002d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwZGFzaGJvYXJkJTIwaW50ZXJmYWNlfGVufDF8fHx8MTc3MzA5Mzc4MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "/src/Pic/Animalfull.png",
-      "/src/Pic/Animalfull2.png",
-      "/src/Pic/Animalfull3.png",
+      "/Pic/Animalfull.png",
+      "/Pic/Animalfull2.png",
+      "/Pic/Animalfull3.png",
     ],
     outcomes: [
       "Conducted user interviews with 20+ students and remote workers",
@@ -232,7 +232,7 @@ export const projects: Project[] = [
       "https://www.figma.com/proto/lqkYiOvvT5yPgio0VY2qVv/CHICKEN-READY?node-id=833-1157&t=W5pryl6UTAzlCg9M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A7&show-proto-sidebar=1",
     category: "Class project",
     year: "2022",
-    image: "/src/Pic/Chicken.png",
+    image: "/Pic/Chicken.png",
     description:
       "Mobile App Design for Professional Chicken Farmers . Created interactive protoypes using figma.",
     tags: ["Mobile", "UI design", "Figma", "User research"],
@@ -247,8 +247,8 @@ export const projects: Project[] = [
     tools: ["Figma", "Miro"],
     images: [
       "https://images.unsplash.com/photo-1707483618680-8c13c7fc3f69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlY29tbWVyY2UlMjBkZXNpZ24lMjBtb2NrdXB8ZW58MXx8fHwxNzczMTI1MzE0fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "/src/Pic/Chickenfull.png",
-      "/src/Pic/Chickenfull2.png",
+      "/Pic/Chickenfull.png",
+      "/Pic/Chickenfull2.png",
     ],
     outcomes: [
       "Designed complete user journey from browsing to pickup",
