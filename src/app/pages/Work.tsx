@@ -89,30 +89,6 @@ export function Work() {
           </div>
         </div>
       </section>
-
-      {/* Stats */}
-      <section className="py-20 bg-gray-900 text-white">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <div className="grid md:grid-cols-3 gap-8 text-center">
-            {[
-              { number: "10+", label: "Design Projects" },
-              { number: "100%", label: "Passion & Dedication" },
-              { number: "Always", label: "Learning & Growing" },
-            ].map((stat, index) => (
-              <motion.div
-                key={stat.label}
-                initial={{ opacity: 0, y: 20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.6, delay: index * 0.1 }}
-              >
-                <div className="text-5xl font-bold mb-2">{stat.number}</div>
-                <div className="text-gray-400">{stat.label}</div>
-              </motion.div>
-            ))}
-          </div>
-        </div>
-      </section>
     </div>
   );
 }
